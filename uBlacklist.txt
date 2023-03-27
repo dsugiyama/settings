@@ -162,6 +162,5 @@
 *://wa3.i-3-i.info/*
 *://websetnet.net/*
 *://wikipredia.net/*
-*://wikiwiki.jp/*
 *://windowsbulletin.com/*
 *://zowie.benq.com/*
